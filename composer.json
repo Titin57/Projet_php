@@ -1,0 +1,14 @@
+{
+    "name": "neby55/projet_toto",
+    "description": "Gestion des formations pour Webforce3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Benjamin CORDIER",
+            "email": "ben@progweb.fr"
+        }
+    ],
+    "require": {
+        "social-links/social-links": "^1.12"
+    }
+}
